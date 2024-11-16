@@ -1,6 +1,7 @@
 # README.md.
 # TUGAS PEMROGRAMAN PERTEMUAN 9
-# NNTI DISINI FOTO
+![IMG-20241116-WA0007](https://github.com/user-attachments/assets/67bdf9d9-1544-4e1e-98b7-ee70fa5630b4)
+
 
 # Penjelasannya:
 # 1.Deklarasi Daftar Mahasiswa
