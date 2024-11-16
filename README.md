@@ -74,3 +74,8 @@ Setelah semua data diinput, program akan menampilkan daftar semua siswa yang tel
 
 # Kesimpulan
 Program ini adalah contoh sederhana dari sistem manajemen data siswa yang dapat digunakan untuk menginput, menghitung, dan menampilkan nilai akhir siswa. Program ini dapat dikembangkan lebih lanjut dengan menambahkan fitur seperti validasi input, penyimpanan ke file, atau pengeditan data.
+
+# Flowchart 
+
+![IMG-20241114-WA0005](https://github.com/user-attachments/assets/86a8af19-19ee-4907-8d0f-5144e802c4e9)
+
