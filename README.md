@@ -1,6 +1,8 @@
 # README.md.
 # TUGAS PEMROGRAMAN PERTEMUAN 9
 ![IMG-20241116-WA0007](https://github.com/user-attachments/assets/67bdf9d9-1544-4e1e-98b7-ee70fa5630b4)
+![IMG-20241116-WA0006](https://github.com/user-attachments/assets/e6cf436a-0b17-4d8e-a60c-668fc08e406e)
+
 
 
 # Penjelasannya:
